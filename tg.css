@@ -88,22 +88,19 @@ li {
     color:rgb(18, 10, 143);
     font-weight: bold;
     font-size: 30px;
+    
 
 }
 
-.seção1{
+.Off-Set{
     background-color: #fffF;
-    padding: 90px;
+    padding: 65px;
     padding-bottom: fixed;
     margin-left: 50px;
     margin-right: 50px;
 
 }
 
-.tamanho-img-1{
-    height: 300px;
-    width: 300px;
-}
 
 .conteudo1{
     display:flex;
@@ -114,11 +111,7 @@ li {
     margin-left: 30px;
     font-size: 20px;
 }
-.tamanho-img-2{
-    height: 300px;
-    width: 300px;
-   
-}
+
 .conteudo2{
     display:flex;
     align-items: center;
@@ -127,10 +120,6 @@ li {
 .texto2{
     margin-left: 30px;
     font-size: 20px;
-}
-.tamanho-img-3{
-    height: 300px;
-    width: 300px;
 }
 
 .conteudo3{
@@ -142,24 +131,16 @@ li {
     margin-left: 30px;
     font-size: 20px;
 }
-.tamanho-img-4{
-    height: 300px;
-    width: 500px;
-}
 
 
-.seção2{
+.Flexografia{
     background-color: #fffF;
-    padding: 90px;
+    padding: 65px;
     padding-bottom: fixed;
     margin: 50px;
 
 }
 
-.tamanho-img-5{
-    height: 300px;
-    width: 1050px;
-}
 .conteudo4{
     display:flex;
     align-items: center;
@@ -170,14 +151,7 @@ li {
     margin-left: 30px;
     font-size: 20px;
 }
-.tamanho-img-6{
-    height: 300px;
-    width: 300px;
-}
-.tamanho-img-7{
-    height: 300px;
-    width: 300px;
-}
+
 .conteudo5{
     display:flex;
     align-items: center;
@@ -193,26 +167,85 @@ li {
 
 
 
-.seção3{
+.Serigrafia{
     background-color: #fffF;
-    padding: 90px;
+    padding: 65px;
     padding-bottom: fixed;
     margin: 50px;
 
 }
+.conteudo8{
+    display:flex;
+    align-items: center;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-left: 45px;
+    padding-right: 40px;
+}
+.texto8{
+    margin-left: 30px;
+    font-size: 20px;
+
+}
+
+
 
 .seção4{
     background-color: #fffF;
-    padding: 90px;
+    padding: 65px;
     padding-bottom: fixed;
     margin: 50px;
 
 }
 
-.seção5{
+.impressao-digital{
     background-color: #fffF;
-    padding: 90px;
+    padding: 65px;
     padding-bottom: fixed;
     margin: 50px;
 
+}
+.conteudo6{
+    display:flex;
+    align-items: center;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-left: 45px;
+    padding-right: 40px;
+}
+.texto6{
+    margin-left: 30px;
+    font-size: 20px;
+
+}
+
+.conteudo7{
+    display:flex;
+    align-items: center;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-left: 45px;
+    padding-right: 40px;
+}
+.texto7{
+    margin-left: 30px;
+    font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+.seção-acabamentos{
+    background-color: #fffF;
+    padding:65px;
+    padding-bottom: fixed;
+    margin: 50px;
+   
 }
