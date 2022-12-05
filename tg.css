@@ -11,18 +11,19 @@ li {
     
     display:flex;
     position:fixed; 
-    width:100%; 
+    width:84%; 
     padding-bottom: 32px;
     padding-top: 32px;
-    height: 1px;
+    height: 10px;
     background-color: rgb(18, 10, 143);
-    
+    margin-left: 100px;
+
 
 }
 
 .header-menu nav{
     display: flex;
-    justify-content:end;
+    justify-content:center;
     width: 100%;
 }
 
@@ -36,11 +37,12 @@ li {
 
 .lista-menu li>a{
     color: #fffF;
-    font-size: 18px;
+    font-size: 17px;
     text-decoration: inherit;
     display: flex;
     align-items: flex-end;
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 
@@ -49,7 +51,10 @@ li {
     background-color: #fffF;
     padding: 90px;
     padding-bottom: fixed;
-    margin: 50px;    
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 0px;    
+    margin-bottom: 50px;
 }
 
 .conteudo-pricipal{
@@ -91,8 +96,8 @@ li {
     background-color: #fffF;
     padding: 65px;
     padding-bottom: fixed;
-    margin-left: 50px;
-    margin-right: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
 
 }
 
@@ -132,6 +137,8 @@ li {
     padding: 65px;
     padding-bottom: fixed;
     margin: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
 
 }
 
@@ -163,6 +170,8 @@ li {
     padding: 65px;
     padding-bottom: fixed;
     margin: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
 
 }
 .conteudo8{
@@ -195,7 +204,8 @@ li {
     padding: 65px;
     padding-bottom: fixed;
     margin: 50px;
-
+    margin-left: 100px;
+    margin-right: 100px;
 }
 .conteudo10{
     display:flex;
@@ -216,7 +226,8 @@ li {
     padding: 65px;
     padding-bottom: fixed;
     margin: 50px;
-
+    margin-left: 100px;
+    margin-right: 100px;
 }
 .conteudo6{
     display:flex;
@@ -252,5 +263,21 @@ li {
     padding:65px;
     padding-bottom: fixed;
     margin: 50px;
-   
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+
+ .footer{
+    grid-area: footer;
+    height: 130px;
+    justify-content: space-between;
+    text-align: center;
+    font-size: 30px;
+    display:list-item;
+}
+.footer a{
+    color: #fffF;
+    justify-content:space-around;
+  
 }
