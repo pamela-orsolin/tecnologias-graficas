@@ -43,19 +43,13 @@ li {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+
+
 .seção-principal{
     background-color: #fffF;
     padding: 90px;
     padding-bottom: fixed;
-    margin: 50px;
-
-    
-}
-
-
-.tamanho-img-principal{
-    height: 300px;
-    width: 500px;
+    margin: 50px;    
 }
 
 .conteudo-pricipal{
@@ -88,9 +82,8 @@ li {
     color:rgb(18, 10, 143);
     font-weight: bold;
     font-size: 30px;
-    
-
 }
+
 
 .Off-Set{
     background-color: #fffF;
@@ -100,7 +93,6 @@ li {
     margin-right: 50px;
 
 }
-
 
 .conteudo1{
     display:flex;
@@ -164,9 +156,6 @@ li {
 }
 
 
-
-
-
 .Serigrafia{
     background-color: #fffF;
     padding: 65px;
@@ -185,18 +174,40 @@ li {
 .texto8{
     margin-left: 30px;
     font-size: 20px;
-
+}
+.conteudo9{
+    display:flex;
+    align-items: center;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+.texto9{
+    margin-left: 30px;
+    font-size: 20px;
 }
 
 
 
-.seção4{
+.Rotogravura{
     background-color: #fffF;
     padding: 65px;
     padding-bottom: fixed;
     margin: 50px;
 
 }
+.conteudo10{
+    display:flex;
+    align-items: center;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+.texto10{
+    margin-left: 30px;
+    font-size: 20px;
+
+}
+
+
 
 .impressao-digital{
     background-color: #fffF;
