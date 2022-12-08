@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/tg.html"
+status = 200
